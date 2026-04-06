@@ -1,1 +1,10 @@
 Datasets/mnist_train.csv
+
+dashboard/node_modules/
+dashboard/dist/
+
+venv/
+Models/
+__pycache__/
+*.h5
+*.dll

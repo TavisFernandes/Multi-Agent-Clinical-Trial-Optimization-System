@@ -1,0 +1,301 @@
+Patient ID,Age,Sex,Tumor size (cm),Grade,Stage (TNM),Survival time (days),"Event (death=1, alive=0)",Smoking Status,Pack Years,Treatment Type,EGFR Mutation,KRAS Mutation,Hospital,Follow-up (months)
+P100000,52,Female,1.5,1,IIIA,380,0,Former,87.4,Chemo,G12V,Exon 21 (L858R),Hospital C,33.0
+P100001,84,Female,2.9,2,IB,3007,0,Never,88.2,Chemo+Radiation,G12A,G12V,Hospital C,115.3
+P100002,85,Male,6.5,1,IIB,754,0,Former,76.2,Radiation,Exon 19,G12A,Hospital B,22.4
+P100003,57,Female,7.1,3,IVB,2247,1,Former,51.8,Chemo,G12D,G12V,Hospital B,6.9
+P100004,73,Female,5.7,1,IIB,894,0,Former,98.2,Chemo,G12A,NA,Hospital B,49.7
+P100005,66,Female,2.0,3,IB,1973,0,Former,83.0,Chemo+Radiation,G12C,NA,Hospital A,53.4
+P100006,56,Female,5.7,2,IIIA,2814,1,Never,48.8,Chemo+Radiation,Exon 19,G12V,Hospital B,29.3
+P100007,64,Female,6.9,3,IA2,3214,0,Never,48.6,Radiation,Exon 19,G12A,Hospital A,70.5
+P100008,83,Male,6.6,2,IIIA,2132,0,Former,59.4,Radiation,NA,G12C,Hospital C,88.0
+P100009,62,Male,1.8,2,IIIA,1537,0,Former,91.5,Chemo+Radiation,G12A,G12V,Hospital B,44.2
+P100010,40,Male,3.9,3,IIIB,1777,1,Never,89.9,Radiation,G12A,G12V,Hospital A,58.0
+P100011,74,Female,1.2,3,IA1,3112,0,Current,77.8,Chemo+Radiation,NA,G12C,Hospital B,31.1
+P100012,49,Male,3.8,2,IB,1205,1,Never,41.9,Radiation,G12A,NA,Hospital C,65.0
+P100013,76,Male,7.4,3,IVA,407,1,Never,43.0,Radiation,Exon 19,Exon 21 (L858R),Hospital B,40.9
+P100014,46,Male,5.0,1,IIB,3018,1,Current,77.7,Radiation,G12C,Exon 19,Hospital C,82.8
+P100015,63,Male,6.7,2,IB,828,0,Never,24.8,Radiation,Negative,G12C,Hospital A,118.6
+P100016,69,Female,4.2,2,IIIA,25,0,Former,23.9,Radiation,Exon 21 (L858R),NA,Hospital C,38.1
+P100017,65,Female,2.1,2,IIIA,291,1,Current,96.6,Radiation,Exon 21 (L858R),NA,Hospital A,44.9
+P100018,36,Female,2.4,1,IIB,1198,1,Former,40.8,Chemo,Negative,G12C,Hospital B,117.7
+P100019,48,Male,5.7,1,IVA,1338,1,Never,89.9,None,G12V,Exon 21 (L858R),Hospital B,77.1
+P100020,55,Female,6.2,1,IIIA,1346,1,Former,40.6,Radiation,G12V,G12C,Hospital A,94.0
+P100021,70,Male,1.1,3,IIB,1366,0,Current,34.1,Chemo+Radiation,G12C,NA,Hospital B,30.6
+P100022,73,Female,6.0,2,IIA,2762,1,Current,14.8,Chemo,G12D,NA,Hospital B,113.3
+P100023,39,Male,0.8,3,IIB,1657,0,Current,57.6,Chemo+Radiation,G12A,G12D,Hospital C,79.5
+P100024,71,Female,7.4,2,IIB,240,0,Former,1.4,Radiation,NA,G12C,Hospital A,70.6
+P100025,69,Female,0.8,3,IVB,280,1,Current,95.3,Chemo+Radiation,G12C,G12A,Hospital C,109.0
+P100026,54,Male,4.0,1,IIB,384,0,Former,50.3,Radiation,Exon 19,G12D,Hospital A,93.2
+P100027,40,Female,2.8,3,IA2,1770,0,Former,86.0,Radiation,G12V,Exon 21 (L858R),Hospital B,30.3
+P100028,82,Male,1.6,1,IVA,2328,1,Former,7.3,None,NA,G12D,Hospital B,77.5
+P100029,47,Female,0.7,3,IA1,1535,0,Never,93.4,Chemo+Radiation,G12A,Exon 19,Hospital B,29.5
+P100030,74,Male,5.8,1,IIIA,2232,1,Never,54.6,Chemo,G12V,Negative,Hospital A,16.2
+P100031,46,Male,2.6,3,IB,838,0,Never,9.1,Chemo+Radiation,G12A,Exon 19,Hospital C,35.9
+P100032,81,Female,3.6,1,IIA,1696,0,Former,61.6,Chemo+Radiation,G12A,G12C,Hospital C,115.5
+P100033,66,Male,6.0,2,IIIB,507,1,Current,23.6,Radiation,NA,G12V,Hospital A,87.4
+P100034,58,Male,6.1,1,IIB,607,0,Never,4.5,None,G12V,NA,Hospital B,39.0
+P100035,69,Male,1.6,1,IB,1914,1,Current,58.1,Chemo+Radiation,G12C,G12V,Hospital B,15.0
+P100036,55,Male,7.1,2,IIA,2794,1,Never,53.6,None,G12D,Exon 19,Hospital C,50.9
+P100037,53,Male,6.1,3,IVB,1587,1,Former,33.9,Chemo,NA,Exon 19,Hospital A,12.3
+P100038,74,Male,3.3,1,IA2,1543,0,Former,57.3,Chemo,G12V,G12D,Hospital B,33.2
+P100039,69,Male,4.7,3,IIIA,2710,1,Never,97.8,None,Exon 19,Exon 21 (L858R),Hospital B,94.1
+P100040,45,Female,2.6,3,IVB,392,1,Never,21.0,Chemo,G12V,G12V,Hospital B,84.6
+P100041,69,Male,4.3,1,IIB,1658,0,Never,67.2,Chemo,Exon 21 (L858R),Exon 21 (L858R),Hospital B,43.5
+P100042,82,Female,2.3,2,IIIB,1103,1,Never,7.7,Chemo+Radiation,Exon 21 (L858R),G12A,Hospital C,81.7
+P100043,72,Female,3.4,1,IIIA,2087,1,Current,56.4,Radiation,Exon 19,G12C,Hospital C,29.4
+P100044,68,Female,4.6,1,IIA,461,1,Former,68.3,Chemo,NA,Exon 21 (L858R),Hospital A,26.9
+P100045,65,Male,2.7,1,IB,1474,0,Former,17.9,Radiation,Exon 21 (L858R),G12C,Hospital A,62.2
+P100046,82,Male,1.4,3,IB,2272,0,Never,92.3,Chemo,G12A,Exon 19,Hospital C,68.1
+P100047,52,Male,6.9,3,IVA,110,1,Former,26.5,Radiation,G12A,G12V,Hospital A,82.6
+P100048,53,Female,1.9,3,IIA,1904,1,Former,86.5,Chemo,G12D,G12V,Hospital C,74.7
+P100049,64,Female,2.6,2,IA1,609,0,Former,37.6,Chemo+Radiation,G12C,G12D,Hospital B,92.2
+P100050,84,Male,1.9,3,IB,553,0,Former,69.9,None,G12C,NA,Hospital C,18.8
+P100051,60,Male,4.2,3,IVB,1534,0,Current,87.6,None,Exon 21 (L858R),NA,Hospital A,95.3
+P100052,89,Male,1.2,2,IA2,2566,0,Former,94.6,None,G12D,G12V,Hospital B,72.1
+P100053,46,Female,1.7,2,IIIB,1057,1,Current,68.0,Radiation,Negative,Negative,Hospital A,29.1
+P100054,44,Female,5.6,1,IA1,1481,1,Never,15.5,Chemo+Radiation,G12V,G12A,Hospital C,40.3
+P100055,84,Male,5.6,2,IVB,1033,0,Never,45.0,Chemo,G12D,NA,Hospital B,29.3
+P100056,69,Female,0.9,2,IA1,2233,0,Never,27.9,Chemo,Exon 21 (L858R),G12D,Hospital B,48.1
+P100057,65,Female,4.1,1,IA2,2666,0,Current,17.1,Chemo,Negative,G12A,Hospital B,28.5
+P100058,36,Female,5.6,2,IA1,2551,0,Never,97.0,Chemo+Radiation,G12C,G12A,Hospital A,8.5
+P100059,51,Female,0.6,3,IVA,2275,0,Never,14.6,Chemo+Radiation,G12A,Negative,Hospital B,85.5
+P100060,58,Male,1.9,2,IB,1732,0,Never,15.6,Chemo+Radiation,G12C,Exon 21 (L858R),Hospital B,33.8
+P100061,78,Female,1.2,1,IA3,1741,0,Former,0.1,None,G12V,G12A,Hospital C,107.9
+P100062,45,Male,5.1,2,IVB,759,1,Current,25.9,Radiation,NA,Negative,Hospital C,44.4
+P100063,52,Female,6.0,1,IIB,934,0,Former,40.1,Radiation,G12V,G12C,Hospital A,46.0
+P100064,39,Female,1.2,3,IIB,1862,0,Former,56.6,Radiation,G12V,G12V,Hospital C,7.7
+P100065,71,Male,6.1,2,IIIB,2463,0,Never,36.7,Radiation,Exon 21 (L858R),NA,Hospital C,18.1
+P100066,48,Male,1.7,3,IIB,816,0,Former,35.5,Chemo,G12A,G12D,Hospital C,63.4
+P100067,72,Male,6.9,2,IA1,1397,0,Current,37.9,Radiation,Exon 19,Exon 19,Hospital B,102.1
+P100068,82,Female,3.0,3,IIIA,749,1,Current,66.6,Chemo+Radiation,Exon 21 (L858R),Negative,Hospital B,30.6
+P100069,68,Male,4.3,2,IVA,2297,1,Former,60.7,Chemo+Radiation,Exon 19,G12V,Hospital B,25.0
+P100070,76,Male,0.6,1,IIA,1920,0,Former,89.2,None,Exon 19,Negative,Hospital C,38.7
+P100071,61,Female,0.6,1,IA3,1737,0,Current,62.0,Chemo+Radiation,Negative,G12A,Hospital B,81.6
+P100072,81,Male,7.4,1,IVA,558,1,Current,52.0,Chemo,Exon 21 (L858R),Exon 21 (L858R),Hospital B,27.7
+P100073,52,Male,6.4,1,IIB,1172,1,Current,9.7,Chemo+Radiation,G12A,Exon 21 (L858R),Hospital B,40.5
+P100074,63,Male,7.1,1,IA3,1278,0,Never,54.9,Chemo,Negative,Negative,Hospital C,73.4
+P100075,89,Male,5.9,3,IA3,3043,1,Former,19.5,Chemo+Radiation,G12A,G12V,Hospital A,100.3
+P100076,53,Male,4.1,1,IIB,2738,0,Current,44.4,Chemo+Radiation,G12V,Exon 19,Hospital C,22.1
+P100077,51,Male,3.5,3,IB,2642,0,Current,74.5,Chemo,G12C,G12V,Hospital B,115.9
+P100078,49,Female,2.7,2,IIA,2257,0,Former,67.2,None,Exon 19,Exon 21 (L858R),Hospital B,86.0
+P100079,68,Male,2.7,1,IA1,1918,0,Former,63.1,Radiation,Exon 19,G12D,Hospital C,24.7
+P100080,42,Male,3.6,2,IVB,1095,1,Never,52.6,Radiation,NA,Exon 21 (L858R),Hospital B,98.2
+P100081,51,Female,6.7,3,IA1,2408,1,Never,31.6,Radiation,Negative,NA,Hospital A,45.0
+P100082,83,Female,5.6,1,IIA,789,0,Never,2.9,None,G12V,Negative,Hospital B,76.5
+P100083,47,Male,4.3,2,IA2,1262,0,Never,19.3,Chemo+Radiation,NA,G12V,Hospital B,114.4
+P100084,37,Female,5.3,1,IIA,1296,0,Former,71.7,Radiation,NA,G12V,Hospital B,67.3
+P100085,73,Female,3.5,1,IA2,1382,0,Never,76.2,Chemo,G12A,Exon 21 (L858R),Hospital C,108.6
+P100086,46,Male,2.2,1,IIIA,1281,1,Never,41.8,Radiation,Exon 19,G12V,Hospital B,14.3
+P100087,56,Male,3.4,1,IIB,2017,1,Never,0.7,Chemo,Negative,NA,Hospital B,65.1
+P100088,89,Female,5.9,2,IB,3060,0,Never,95.5,Radiation,Exon 19,G12C,Hospital A,110.8
+P100089,47,Female,5.2,1,IIIA,393,1,Never,54.2,Chemo+Radiation,G12V,G12C,Hospital B,77.8
+P100090,84,Female,4.6,3,IIA,2100,0,Never,6.0,Chemo+Radiation,Negative,G12V,Hospital A,110.4
+P100091,71,Male,2.9,2,IA1,1196,1,Current,58.1,None,Exon 21 (L858R),G12V,Hospital B,114.0
+P100092,77,Male,1.2,1,IIIA,569,0,Never,24.7,Chemo+Radiation,Negative,G12C,Hospital B,58.4
+P100093,72,Male,4.1,1,IB,369,0,Never,83.3,Chemo+Radiation,G12D,G12D,Hospital B,54.7
+P100094,42,Female,3.4,3,IIA,3138,0,Former,99.1,Chemo,G12C,Negative,Hospital C,37.7
+P100095,61,Male,2.8,2,IIIB,1370,1,Never,54.9,Chemo+Radiation,G12D,G12C,Hospital B,96.8
+P100096,84,Female,6.6,3,IVB,1161,1,Former,32.9,None,NA,Exon 21 (L858R),Hospital C,41.9
+P100097,87,Female,2.6,1,IVA,2770,0,Current,20.5,None,NA,NA,Hospital B,27.6
+P100098,49,Male,1.9,1,IVB,2540,1,Never,73.5,Chemo+Radiation,NA,Exon 19,Hospital B,96.9
+P100099,40,Female,7.4,1,IA2,477,0,Never,58.7,Chemo,G12C,NA,Hospital B,17.7
+P100100,39,Female,7.1,2,IVA,1271,0,Current,59.1,None,G12A,NA,Hospital B,88.2
+P100101,77,Male,2.3,3,IIIA,952,1,Former,66.6,Radiation,Exon 21 (L858R),G12D,Hospital C,49.2
+P100102,63,Male,4.2,1,IVA,1822,0,Current,65.7,None,G12A,G12A,Hospital A,28.6
+P100103,71,Male,4.3,1,IB,2212,0,Former,28.8,Chemo+Radiation,G12D,G12D,Hospital A,74.8
+P100104,84,Female,7.5,3,IA2,2677,0,Never,60.1,Chemo+Radiation,G12C,G12C,Hospital A,13.1
+P100105,37,Male,2.1,2,IVA,1529,0,Current,68.6,Chemo+Radiation,NA,G12V,Hospital C,114.2
+P100106,44,Male,3.9,2,IVB,310,1,Never,35.7,Chemo+Radiation,Exon 21 (L858R),Exon 19,Hospital A,35.8
+P100107,83,Male,5.9,2,IA3,2365,1,Current,64.8,None,G12C,Exon 21 (L858R),Hospital B,116.5
+P100108,81,Female,7.0,2,IA3,700,0,Never,52.8,None,G12D,Exon 19,Hospital C,20.5
+P100109,53,Male,4.9,2,IIB,2926,0,Current,97.0,None,Negative,G12D,Hospital A,18.8
+P100110,82,Male,7.2,3,IA3,1313,0,Current,71.5,Chemo,Exon 19,G12D,Hospital C,74.8
+P100111,44,Female,5.4,3,IA3,411,0,Former,89.1,Radiation,G12C,G12A,Hospital B,52.9
+P100112,41,Male,2.1,3,IIB,1524,0,Former,8.0,Chemo,Exon 21 (L858R),G12C,Hospital C,60.1
+P100113,45,Female,0.8,1,IA2,680,0,Never,56.0,Radiation,Negative,G12C,Hospital A,37.8
+P100114,53,Male,5.3,2,IIA,622,1,Never,3.0,Chemo+Radiation,NA,G12D,Hospital A,16.4
+P100115,63,Male,2.1,3,IVB,1763,1,Current,15.6,Chemo+Radiation,G12V,G12D,Hospital C,31.7
+P100116,45,Male,3.8,1,IA3,1235,0,Never,90.8,Chemo,Negative,G12D,Hospital B,89.2
+P100117,53,Female,1.1,2,IIB,2925,0,Former,11.6,None,G12V,G12V,Hospital B,43.2
+P100118,60,Female,1.0,1,IIIB,348,1,Former,88.8,Chemo,G12C,G12C,Hospital B,58.4
+P100119,53,Male,4.9,3,IIB,1661,0,Current,33.6,Chemo+Radiation,NA,G12D,Hospital B,65.2
+P100120,43,Male,1.1,3,IVA,1158,1,Current,14.4,Chemo,G12C,Exon 21 (L858R),Hospital C,56.4
+P100121,67,Male,2.7,2,IIB,987,0,Never,76.1,Chemo+Radiation,Exon 19,Exon 21 (L858R),Hospital C,87.3
+P100122,61,Female,4.4,2,IA3,1223,1,Never,24.0,Radiation,G12C,G12A,Hospital B,42.9
+P100123,59,Female,3.3,1,IVB,1689,0,Former,81.9,Radiation,Exon 21 (L858R),NA,Hospital C,19.3
+P100124,88,Male,3.2,1,IB,3001,0,Current,0.6,Chemo,Exon 19,G12V,Hospital A,15.0
+P100125,70,Male,5.0,2,IA3,1412,1,Current,6.0,Radiation,G12V,G12A,Hospital A,48.9
+P100126,42,Female,4.5,2,IB,2874,1,Never,87.4,Chemo+Radiation,Exon 21 (L858R),Exon 21 (L858R),Hospital C,63.2
+P100127,56,Male,3.4,1,IIIA,2100,0,Former,25.0,None,Exon 19,G12V,Hospital B,46.6
+P100128,48,Female,2.6,2,IIB,1064,1,Never,74.9,None,Exon 21 (L858R),G12A,Hospital A,37.0
+P100129,48,Male,0.7,3,IA1,1102,0,Former,53.3,Radiation,G12C,G12V,Hospital C,74.0
+P100130,54,Male,2.0,3,IA3,2081,0,Former,12.9,Radiation,G12D,Exon 19,Hospital A,67.2
+P100131,58,Female,6.0,2,IIA,376,1,Former,24.8,None,G12D,G12C,Hospital A,10.1
+P100132,40,Male,4.2,2,IIB,1159,0,Current,42.3,Chemo+Radiation,Exon 21 (L858R),G12V,Hospital A,28.9
+P100133,58,Female,1.3,3,IA1,905,0,Current,54.1,None,G12A,G12D,Hospital C,99.3
+P100134,70,Female,2.5,2,IVB,2346,1,Former,43.8,None,G12V,G12A,Hospital C,99.2
+P100135,65,Female,5.2,1,IA3,696,0,Never,90.7,Chemo,G12D,Negative,Hospital B,73.0
+P100136,75,Female,3.3,2,IIIA,2404,0,Former,60.2,None,Exon 21 (L858R),G12C,Hospital A,85.5
+P100137,45,Female,3.4,1,IIIB,736,1,Former,68.6,Radiation,G12A,Negative,Hospital A,103.9
+P100138,41,Male,1.9,1,IA3,1164,0,Current,42.9,Chemo+Radiation,G12V,G12V,Hospital A,72.8
+P100139,77,Male,2.3,3,IA3,2250,0,Current,29.6,None,Exon 19,Exon 21 (L858R),Hospital A,71.2
+P100140,35,Female,6.2,3,IB,818,1,Never,33.2,Chemo,G12D,NA,Hospital C,90.9
+P100141,52,Male,6.0,2,IA3,1343,1,Current,24.6,Radiation,NA,G12C,Hospital C,13.2
+P100142,65,Male,4.5,3,IIIB,1152,1,Former,87.4,None,Exon 21 (L858R),G12C,Hospital B,11.0
+P100143,72,Male,5.1,3,IIA,3268,0,Never,51.7,Chemo+Radiation,G12V,G12D,Hospital A,66.4
+P100144,88,Male,3.1,3,IA1,2431,0,Former,7.3,None,G12C,Exon 19,Hospital C,96.1
+P100145,48,Male,3.4,1,IIB,3150,0,Current,48.2,Chemo+Radiation,G12D,G12D,Hospital C,88.0
+P100146,35,Female,3.0,1,IVA,2776,0,Former,57.1,Chemo,G12V,Negative,Hospital B,91.0
+P100147,86,Male,2.1,1,IA1,1110,1,Former,93.0,Radiation,G12C,G12D,Hospital B,68.1
+P100148,70,Male,2.1,1,IA1,1207,0,Former,43.9,None,NA,G12A,Hospital A,30.9
+P100149,76,Male,6.5,1,IIIA,1803,0,Never,43.8,None,G12C,Exon 19,Hospital A,32.3
+P100150,39,Female,4.6,2,IA3,606,1,Never,74.6,None,Negative,NA,Hospital C,10.0
+P100151,60,Female,6.0,2,IIA,1536,1,Former,80.7,Chemo+Radiation,Exon 19,G12V,Hospital A,58.4
+P100152,52,Male,0.6,2,IVA,2042,0,Former,66.4,Radiation,G12D,NA,Hospital C,86.8
+P100153,47,Female,0.5,3,IIIB,2778,0,Never,11.3,Chemo,G12D,G12D,Hospital B,71.0
+P100154,73,Female,3.8,1,IVB,991,1,Never,7.4,Radiation,G12V,G12C,Hospital A,119.2
+P100155,39,Female,2.5,3,IIIA,2527,1,Current,17.4,Radiation,Exon 19,G12A,Hospital A,115.8
+P100156,61,Male,6.4,1,IA1,1575,0,Former,6.3,None,G12D,G12D,Hospital A,74.2
+P100157,40,Female,1.0,3,IA1,429,1,Current,97.5,Radiation,NA,G12D,Hospital A,32.5
+P100158,49,Male,2.4,1,IA3,1818,0,Never,80.7,Chemo+Radiation,G12D,G12V,Hospital C,11.7
+P100159,46,Female,3.5,3,IIB,2580,1,Former,45.3,None,NA,G12A,Hospital C,118.8
+P100160,76,Female,1.5,2,IA3,540,0,Former,27.4,Chemo+Radiation,G12A,G12D,Hospital A,51.6
+P100161,57,Female,7.1,2,IVA,2518,1,Current,55.1,Chemo+Radiation,Negative,Exon 21 (L858R),Hospital C,100.2
+P100162,88,Female,1.4,3,IA3,532,0,Never,26.0,Chemo,G12A,G12V,Hospital A,35.0
+P100163,57,Male,2.7,2,IA3,962,0,Never,5.7,Radiation,G12D,NA,Hospital A,18.6
+P100164,76,Female,3.1,3,IIIA,2442,1,Never,81.8,Radiation,G12V,G12V,Hospital A,115.2
+P100165,42,Female,2.8,3,IA3,2995,1,Former,5.2,None,NA,Exon 21 (L858R),Hospital B,7.5
+P100166,54,Male,6.2,1,IVA,2550,1,Former,59.8,None,G12A,Exon 21 (L858R),Hospital C,98.3
+P100167,46,Male,4.1,1,IIA,315,1,Never,21.5,None,Exon 21 (L858R),NA,Hospital A,98.5
+P100168,36,Female,4.1,2,IIIB,2004,0,Former,85.3,Radiation,G12D,G12V,Hospital C,50.2
+P100169,78,Male,6.9,2,IA2,1661,0,Current,10.6,Radiation,G12D,Exon 21 (L858R),Hospital A,82.4
+P100170,77,Male,7.3,2,IVB,651,0,Current,12.1,Chemo+Radiation,G12A,G12V,Hospital C,15.7
+P100171,43,Female,2.8,3,IVB,1531,1,Former,59.9,None,G12D,G12D,Hospital C,14.2
+P100172,60,Male,3.5,2,IB,1726,0,Current,60.2,Radiation,G12A,Negative,Hospital A,18.2
+P100173,63,Male,4.9,1,IIB,1425,0,Former,22.6,Chemo+Radiation,G12D,Exon 21 (L858R),Hospital C,105.5
+P100174,65,Male,1.0,1,IIA,1363,0,Never,39.3,Radiation,G12C,Exon 21 (L858R),Hospital B,26.5
+P100175,50,Male,1.6,1,IVA,1394,1,Current,73.3,None,Exon 19,NA,Hospital C,44.3
+P100176,68,Female,6.5,1,IVA,385,0,Former,19.1,Chemo+Radiation,Exon 21 (L858R),G12A,Hospital A,93.6
+P100177,62,Male,0.7,2,IIB,2416,0,Never,53.6,None,G12V,G12D,Hospital A,103.4
+P100178,81,Male,7.0,2,IA1,639,1,Current,48.3,Radiation,Exon 19,G12D,Hospital A,81.2
+P100179,75,Female,6.8,2,IA3,1516,0,Never,49.2,Chemo,G12C,NA,Hospital A,108.2
+P100180,74,Male,0.5,1,IIA,1846,0,Former,68.1,Chemo,G12D,Negative,Hospital C,103.9
+P100181,42,Female,5.0,1,IA3,1800,0,Never,80.2,Chemo,Exon 21 (L858R),Negative,Hospital C,103.1
+P100182,64,Female,3.4,3,IB,2353,1,Former,64.8,Radiation,G12A,Exon 21 (L858R),Hospital A,49.3
+P100183,86,Female,3.2,2,IA2,3354,0,Never,81.2,Chemo+Radiation,NA,Exon 19,Hospital B,104.7
+P100184,61,Female,2.0,2,IIA,1374,0,Never,65.6,None,G12C,Exon 19,Hospital B,49.6
+P100185,43,Female,5.4,1,IVA,558,1,Former,9.4,Chemo+Radiation,Negative,G12V,Hospital B,54.7
+P100186,53,Male,0.9,2,IA1,1692,1,Former,49.8,Chemo,G12C,Exon 21 (L858R),Hospital A,41.3
+P100187,43,Female,6.6,3,IA3,1459,0,Never,56.6,None,G12C,NA,Hospital B,93.0
+P100188,64,Male,1.5,2,IA3,1264,0,Never,75.3,None,G12V,G12A,Hospital A,60.0
+P100189,42,Female,1.2,1,IIA,2127,1,Never,64.1,Radiation,NA,G12A,Hospital C,53.2
+P100190,83,Male,5.4,3,IB,1066,0,Current,96.9,Chemo+Radiation,G12A,Exon 21 (L858R),Hospital C,112.4
+P100191,52,Female,2.6,2,IA2,2011,1,Current,36.2,None,Negative,Exon 19,Hospital A,81.3
+P100192,41,Female,1.3,3,IIIB,900,1,Current,64.3,None,Exon 19,G12D,Hospital C,102.9
+P100193,78,Male,3.6,2,IB,3171,1,Former,77.1,Radiation,Exon 19,G12V,Hospital A,10.4
+P100194,36,Female,4.1,1,IIIB,95,1,Current,32.6,None,G12D,G12A,Hospital A,59.9
+P100195,39,Male,3.5,2,IIIB,1472,1,Current,85.5,Radiation,G12D,G12D,Hospital C,97.5
+P100196,35,Male,2.2,1,IA2,1634,1,Never,58.0,Chemo,NA,G12V,Hospital C,82.0
+P100197,37,Male,5.4,1,IB,1820,0,Former,66.1,None,G12D,NA,Hospital A,50.7
+P100198,39,Male,5.9,1,IA1,2679,0,Current,53.4,None,G12D,Negative,Hospital C,6.0
+P100199,46,Male,5.2,3,IIA,2286,0,Never,16.7,Chemo,Exon 21 (L858R),G12A,Hospital C,75.2
+P100200,57,Female,4.0,1,IA2,3115,0,Current,7.9,None,G12V,G12V,Hospital B,46.6
+P100201,86,Female,2.1,3,IIB,1464,1,Never,60.4,Radiation,G12D,NA,Hospital A,62.2
+P100202,77,Female,5.6,3,IA1,2859,0,Never,0.9,None,G12V,Exon 21 (L858R),Hospital C,98.2
+P100203,70,Female,4.6,3,IIIA,1225,1,Former,91.7,Chemo+Radiation,Exon 19,G12C,Hospital C,119.6
+P100204,82,Male,4.3,2,IA2,3051,0,Never,50.6,Radiation,G12D,G12V,Hospital B,8.1
+P100205,84,Male,7.0,3,IVB,958,1,Current,2.0,Chemo,G12V,G12C,Hospital A,29.4
+P100206,59,Female,3.6,2,IVA,648,1,Current,46.8,Chemo,NA,G12A,Hospital B,37.1
+P100207,64,Female,1.3,2,IIA,873,0,Current,90.0,Radiation,Negative,Exon 19,Hospital A,109.8
+P100208,50,Male,0.6,2,IA2,1858,1,Current,13.1,Chemo,G12A,G12A,Hospital A,74.5
+P100209,53,Female,3.2,3,IIB,1579,0,Former,36.5,Chemo+Radiation,NA,Negative,Hospital B,55.3
+P100210,38,Female,7.3,2,IB,933,1,Current,5.8,Chemo,G12A,Negative,Hospital C,111.0
+P100211,67,Female,4.4,3,IIB,1574,0,Former,46.0,Chemo+Radiation,G12D,G12C,Hospital A,39.9
+P100212,53,Female,0.6,2,IIA,2857,0,Never,31.0,Chemo,Exon 21 (L858R),Exon 21 (L858R),Hospital A,15.8
+P100213,43,Female,7.0,3,IIIA,2808,0,Current,31.0,Chemo,Negative,G12V,Hospital A,42.5
+P100214,63,Male,0.8,3,IA2,1182,1,Never,32.2,Radiation,G12A,Exon 19,Hospital A,119.8
+P100215,89,Female,4.8,2,IB,1833,0,Current,2.8,Radiation,G12V,G12C,Hospital B,33.9
+P100216,82,Male,7.3,2,IA2,3072,0,Current,10.5,Radiation,Exon 19,NA,Hospital B,84.5
+P100217,55,Male,4.1,1,IIIA,2256,1,Former,1.1,Chemo,Exon 19,G12A,Hospital C,85.9
+P100218,57,Female,6.9,1,IVA,349,1,Former,87.9,Chemo+Radiation,G12V,G12V,Hospital C,52.7
+P100219,64,Male,5.9,1,IVA,19,1,Current,17.2,Chemo+Radiation,Exon 19,G12D,Hospital C,91.8
+P100220,84,Female,3.7,3,IA2,587,1,Current,0.5,Chemo+Radiation,Exon 21 (L858R),Exon 21 (L858R),Hospital A,110.6
+P100221,79,Male,4.9,1,IA3,2454,0,Former,94.6,None,NA,Exon 19,Hospital C,21.1
+P100222,65,Female,2.4,2,IA2,2079,1,Current,75.4,Radiation,NA,NA,Hospital A,31.0
+P100223,79,Female,1.0,3,IA1,1530,0,Former,28.1,Chemo,Exon 19,G12A,Hospital A,99.5
+P100224,49,Female,6.3,1,IIB,687,0,Current,31.4,Radiation,NA,Exon 19,Hospital A,72.2
+P100225,68,Male,1.0,3,IA1,1524,0,Never,43.9,Chemo,G12A,G12V,Hospital A,75.7
+P100226,87,Female,6.5,2,IIIA,1856,0,Current,24.2,Chemo+Radiation,Exon 21 (L858R),Exon 21 (L858R),Hospital B,61.1
+P100227,46,Female,2.9,3,IIB,566,0,Current,10.1,Chemo+Radiation,Exon 19,G12D,Hospital B,115.7
+P100228,80,Male,5.9,1,IIIA,336,1,Current,23.4,Chemo,NA,G12D,Hospital A,52.7
+P100229,63,Male,3.9,2,IIIA,868,1,Current,38.0,Radiation,Negative,G12V,Hospital B,63.2
+P100230,60,Female,6.9,2,IIB,2874,1,Former,75.8,Chemo,Exon 21 (L858R),G12A,Hospital A,98.3
+P100231,37,Male,4.3,2,IVB,844,1,Former,93.2,Chemo,G12A,Exon 19,Hospital C,114.0
+P100232,81,Male,1.4,1,IA2,1974,0,Current,93.4,Chemo,Negative,NA,Hospital B,26.9
+P100233,89,Female,3.6,2,IVA,2172,1,Current,94.4,Chemo,Exon 19,Exon 21 (L858R),Hospital C,108.9
+P100234,57,Male,2.4,2,IA3,500,0,Former,61.2,Chemo,G12A,Exon 21 (L858R),Hospital B,70.5
+P100235,51,Female,7.1,2,IVA,1140,1,Never,24.5,Chemo+Radiation,Negative,G12A,Hospital A,21.0
+P100236,79,Male,7.3,2,IIB,1516,0,Current,56.9,Radiation,Negative,G12C,Hospital A,45.1
+P100237,77,Male,0.6,3,IVA,1982,0,Never,54.4,Chemo,NA,Negative,Hospital C,44.6
+P100238,37,Male,5.4,2,IA3,857,0,Former,81.9,Radiation,Exon 21 (L858R),Negative,Hospital A,109.2
+P100239,41,Male,4.7,1,IA2,2054,0,Never,66.9,Radiation,G12C,G12C,Hospital C,104.4
+P100240,60,Male,1.7,3,IA1,871,0,Never,83.3,Chemo+Radiation,G12V,G12C,Hospital A,112.0
+P100241,45,Male,2.7,2,IIIB,1461,0,Never,4.4,Chemo,G12A,G12C,Hospital C,88.1
+P100242,47,Male,6.0,3,IA1,2775,1,Current,40.9,Radiation,G12A,G12A,Hospital A,43.3
+P100243,65,Male,1.1,3,IVA,1564,1,Former,48.5,Chemo+Radiation,G12V,Negative,Hospital B,46.5
+P100244,39,Female,1.4,3,IA2,2760,0,Never,3.0,Chemo+Radiation,G12V,G12C,Hospital A,14.2
+P100245,51,Male,2.6,2,IA1,2703,1,Former,60.6,Radiation,NA,G12A,Hospital C,71.0
+P100246,60,Male,1.2,3,IIB,1996,0,Current,50.4,Chemo,G12A,Negative,Hospital C,68.1
+P100247,42,Male,7.1,1,IA2,319,0,Never,96.2,Chemo,Exon 19,Exon 19,Hospital C,68.4
+P100248,35,Male,3.9,2,IB,1360,1,Current,15.9,Chemo+Radiation,G12V,Negative,Hospital A,61.6
+P100249,63,Male,7.3,3,IA2,2319,0,Current,27.5,Chemo+Radiation,Exon 21 (L858R),G12D,Hospital B,107.2
+P100250,46,Male,1.0,1,IIA,763,1,Never,48.0,Chemo,NA,G12A,Hospital B,51.9
+P100251,71,Female,7.3,1,IIB,951,0,Never,0.5,None,Negative,G12V,Hospital C,82.2
+P100252,88,Female,4.7,3,IIIB,873,1,Current,86.8,Chemo+Radiation,G12C,G12C,Hospital A,32.5
+P100253,59,Female,3.3,1,IIIB,2573,0,Former,73.8,Chemo,G12D,Exon 19,Hospital A,27.6
+P100254,80,Male,4.5,3,IIB,1871,0,Current,5.6,Chemo+Radiation,G12D,Exon 21 (L858R),Hospital A,15.2
+P100255,55,Female,2.1,1,IIA,1105,0,Never,65.4,Radiation,Negative,Exon 19,Hospital B,66.8
+P100256,82,Female,4.1,1,IIIB,1927,1,Former,51.3,Chemo+Radiation,G12C,G12C,Hospital B,36.5
+P100257,75,Female,4.8,3,IA1,358,1,Former,55.7,Radiation,G12A,Negative,Hospital C,79.6
+P100258,69,Female,4.0,1,IVA,67,0,Never,76.0,Chemo+Radiation,G12A,Exon 21 (L858R),Hospital B,118.3
+P100259,79,Female,5.5,2,IIIB,2565,0,Former,27.0,Radiation,G12C,Exon 21 (L858R),Hospital B,80.6
+P100260,77,Female,6.4,3,IVB,2762,0,Current,85.6,Chemo+Radiation,Exon 19,Exon 21 (L858R),Hospital B,64.7
+P100261,50,Female,6.8,2,IA1,1330,0,Never,9.9,Chemo+Radiation,G12V,Exon 19,Hospital C,74.9
+P100262,51,Male,1.1,3,IVA,2285,1,Former,58.9,Radiation,Negative,Exon 19,Hospital C,16.2
+P100263,79,Male,4.0,3,IIIA,2013,1,Former,68.7,Chemo+Radiation,G12A,Exon 21 (L858R),Hospital A,43.1
+P100264,67,Male,6.8,3,IVA,1387,1,Current,65.0,Chemo+Radiation,Exon 21 (L858R),G12C,Hospital B,8.8
+P100265,80,Female,4.3,1,IA1,2278,1,Former,12.9,Radiation,NA,Negative,Hospital C,8.1
+P100266,77,Female,2.2,1,IA3,2121,0,Current,57.2,None,G12D,Exon 19,Hospital A,52.1
+P100267,39,Female,4.6,1,IA1,1645,1,Former,17.6,Chemo+Radiation,G12D,G12D,Hospital C,74.1
+P100268,60,Male,3.5,3,IIB,1215,0,Former,30.5,Chemo,Exon 19,G12D,Hospital C,84.4
+P100269,77,Male,2.6,2,IB,2147,0,Former,61.6,Chemo,G12V,G12C,Hospital C,56.6
+P100270,38,Female,3.2,2,IVB,2057,1,Never,36.8,Radiation,Exon 19,Exon 21 (L858R),Hospital B,17.5
+P100271,37,Female,0.9,1,IIB,1384,1,Current,21.6,Chemo,G12V,G12D,Hospital B,26.9
+P100272,65,Male,6.2,3,IIA,842,0,Former,86.1,Radiation,Exon 21 (L858R),Exon 19,Hospital B,6.6
+P100273,70,Male,1.4,2,IB,2468,0,Current,75.4,Radiation,G12V,G12V,Hospital B,114.9
+P100274,82,Male,5.5,2,IVB,820,0,Never,65.1,None,G12A,G12A,Hospital A,19.3
+P100275,55,Female,6.7,2,IIIA,1119,1,Former,49.7,Chemo+Radiation,G12V,Negative,Hospital C,16.7
+P100276,89,Male,4.8,3,IVA,1919,1,Current,99.6,None,Exon 19,G12V,Hospital A,102.4
+P100277,83,Male,6.9,2,IVA,2148,1,Former,86.8,Chemo+Radiation,G12V,NA,Hospital A,101.1
+P100278,85,Female,4.8,2,IA3,1800,1,Current,3.8,Chemo+Radiation,Negative,G12D,Hospital C,105.3
+P100279,59,Female,4.6,3,IA1,1268,1,Current,14.0,Chemo+Radiation,Exon 21 (L858R),G12D,Hospital C,68.0
+P100280,47,Male,3.6,1,IA1,2156,0,Current,43.9,Radiation,G12C,Exon 21 (L858R),Hospital C,62.6
+P100281,66,Female,2.2,1,IIIA,2427,1,Current,88.4,Chemo+Radiation,G12C,G12D,Hospital B,112.4
+P100282,56,Male,5.4,2,IVA,2625,0,Former,21.3,None,Exon 19,G12D,Hospital C,74.8
+P100283,67,Male,6.5,1,IA1,2335,0,Never,54.3,None,G12V,Exon 21 (L858R),Hospital A,100.9
+P100284,67,Male,2.4,2,IIB,1826,1,Never,41.5,Chemo+Radiation,Negative,G12A,Hospital A,43.3
+P100285,60,Female,4.4,1,IVA,2172,0,Never,49.4,None,G12D,Exon 21 (L858R),Hospital C,115.6
+P100286,60,Male,4.8,3,IIIA,499,1,Never,74.8,None,Exon 21 (L858R),NA,Hospital B,95.4
+P100287,85,Female,5.5,2,IA1,2531,1,Former,93.1,Chemo,Negative,Exon 21 (L858R),Hospital B,96.0
+P100288,68,Female,4.6,2,IIB,1063,0,Former,25.9,Chemo,Exon 19,G12V,Hospital B,15.6
+P100289,53,Female,6.4,1,IIIA,915,1,Never,49.2,None,G12D,G12D,Hospital B,10.2
+P100290,54,Female,6.3,3,IA1,2024,0,Former,6.1,Chemo,G12D,NA,Hospital C,73.4
+P100291,76,Male,5.7,3,IIA,2281,0,Current,23.8,Radiation,G12A,Negative,Hospital B,113.4
+P100292,54,Male,5.4,1,IIIA,2217,1,Former,66.2,Chemo+Radiation,G12C,G12V,Hospital B,59.0
+P100293,65,Male,2.3,2,IIA,1312,0,Former,23.3,Chemo+Radiation,NA,G12V,Hospital A,71.4
+P100294,66,Female,5.6,2,IVB,781,1,Never,29.3,None,Exon 19,G12D,Hospital A,50.8
+P100295,45,Male,6.9,3,IA2,1957,1,Current,9.4,None,G12D,NA,Hospital A,114.5
+P100296,48,Male,5.4,3,IIB,2758,0,Never,58.1,Chemo,Negative,G12V,Hospital A,87.4
+P100297,50,Male,4.9,1,IVB,199,1,Current,72.0,Radiation,G12A,G12V,Hospital C,83.1
+P100298,61,Male,4.2,1,IVA,1024,1,Never,52.2,Radiation,Negative,G12D,Hospital B,14.5
+P100299,40,Female,7.1,3,IVB,2322,1,Never,99.8,Radiation,G12D,G12V,Hospital B,107.1

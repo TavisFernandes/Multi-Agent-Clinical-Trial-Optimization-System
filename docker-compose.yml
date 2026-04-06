@@ -1,0 +1,11 @@
+# One command: docker compose up --build
+# Then open http://localhost:8000/ → 3D dashboard (React). Legacy UI: /ui/index.html
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./Models:/models
+    environment:
+      MODELS_DIR: /models
