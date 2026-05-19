@@ -44,15 +44,9 @@ export async function runAgentAnalysis(
         return;
       }
       onEvent(ev);
-      if (ev.type === "error") {
+      if (ev.type === "result" || ev.type === "final_output" || ev.type === "error") {
         ws.close();
         done();
-        return;
-      }
-      if (ev.type === "final_output") {
-        ws.close();
-        done();
-        return;
       }
     };
 
